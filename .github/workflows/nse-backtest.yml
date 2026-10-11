@@ -1,0 +1,27 @@
+name: NSE swing backtest
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install yfinance pandas numpy requests
+      - run: python nse-swing-scanner/backtest.py
+      - name: Commit results
+        run: |
+          git config user.name "nse-scan-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add nse-swing-scanner/results/backtest
+          git diff --cached --quiet || git commit -m "NSE backtest $(date -u +%F)"
+          git pull --rebase origin main
+          git push
