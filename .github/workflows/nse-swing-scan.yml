@@ -1,0 +1,28 @@
+name: NSE swing scan
+
+on:
+  schedule:
+    - cron: "15 13 * * *"     # 13:15 UTC = 18:45 IST / 16:15 Doha, daily (GitHub may start it late)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install yfinance pandas requests
+      - run: python nse-swing-scanner/scan.py
+      - name: Commit results
+        run: |
+          git config user.name "nse-scan-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add nse-swing-scanner/results nse-swing-scanner/symbols.txt 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "NSE scan $(date -u +%F)"
+          git push
