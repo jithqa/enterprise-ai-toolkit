@@ -6,6 +6,8 @@ Filters: close > EMA50 > EMA200; RSI14 40-65; ATR14 >= 1.5% of price;
 Setups: A Breakout (close > prior 20-day high), B Pullback (low within 2% of EMA50 +
 bullish reversal candle), C RSI cross above 60.
 Bonus: delivery % from NSE's full bhavcopy (best effort; blank if NSE blocks the download).
+Market filter: only take new longs when Nifty 50 closes above its 50 EMA (see backtest.py and
+results/backtest/report.md; the edge is thin, so treat signals as a shortlist, not a system).
 Data is end-of-day from Yahoo Finance and can be delayed or wrong; verify on your broker chart.
 """
 import io, os, sys, datetime as dt
@@ -164,9 +166,25 @@ def main():
     bar = last_date.date() if last_date is not None else None
     deliv = load_delivery(bar) if bar else {}
     now = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+    # Market filter: Nifty 50 close above its 50 EMA (backtest 2015-2026 favoured this)
+    market_on, regime = None, "Nifty data unavailable — market filter not checked"
+    try:
+        n = yf.download("^NSEI", period="2y", interval="1d", auto_adjust=True, progress=False)
+        if isinstance(n.columns, pd.MultiIndex):
+            n.columns = n.columns.get_level_values(0)
+        nc = n["Close"].dropna()
+        ne50 = nc.ewm(span=50, adjust=False).mean()
+        market_on = bool(nc.iloc[-1] > ne50.iloc[-1])
+        regime = (f"Nifty 50 {nc.iloc[-1]:.0f} vs 50 EMA {ne50.iloc[-1]:.0f} ({nc.index[-1].date()}) — "
+                  + ("**MARKET FILTER ON: new longs allowed**" if market_on
+                     else "**MARKET FILTER OFF: no new longs; candidates below are for reference only**"))
+    except Exception:
+        pass
+
     md = [f"# NSE swing scan — data as of {bar}",
           f"Generated {now}. Universe: {len(syms)} symbols ({src}); price data for {ok}. "
-          f"Delivery %: {'loaded' if deliv else 'unavailable (NSE download blocked)'}.", ""]
+          f"Delivery %: {'loaded' if deliv else 'unavailable (NSE download blocked)'}.", "", regime, ""]
 
     if rows:
         res = pd.DataFrame(rows).sort_values("Score", ascending=False).head(10)
