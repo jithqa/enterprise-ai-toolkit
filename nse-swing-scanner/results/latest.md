@@ -1,27 +1,27 @@
-# NSE swing scan — data as of 2026-10-14
-Generated 2026-10-14 18:02 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
+# NSE swing scan — data as of 2026-10-15
+Generated 2026-10-15 17:47 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 498. Delivery %: loaded.
 
-Nifty 50 22623 vs 50 EMA 23334 (2026-10-14) — **MARKET FILTER OFF: no new longs; candidates below are for reference only**
+Nifty 50 22997 vs 50 EMA 23321 (2026-10-15) — **MARKET FILTER OFF: no new longs; candidates below are for reference only**
 
 ## Candidates (ranked)
 | Symbol | Price | Setup | RSI14 | Vol_x20d | Deliv_% | Entry | Stop | Target_1to2 | Risk_% | ATR_% | AvgVal_Cr |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| SAGILITY | 45.55 | Pullback | 57.5 | 2.05 | 34.8 | 46.19 | 42.76 | 53.05 | 7.4 | 2.9 | 56.7 |
-| JINDALSAW | 297.1 | Pullback | 58.0 | 2.07 | 36.0 | 300.05 | 271.4 | 357.35 | 9.5 | 3.7 | 39.5 |
-| MRPL | 185.26 | Breakout + RSI breakout | 62.3 | 1.92 | 28.2 | 186.76 | 172.04 | 216.19 | 7.9 | 4.27 | 185.8 |
-| CCL | 1100.6 | Breakout + Pullback + RSI breakout | 60.8 | 1.1 | 45.3 | 1106.51 | 1042.5 | 1234.53 | 5.8 | 2.73 | 14.8 |
-| TECHM | 1575.2 | Pullback | 56.2 | 1.68 | 45.4 | 1584.86 | 1442.5 | 1869.58 | 9.0 | 2.77 | 340.7 |
-| PNB | 118.5 | Pullback | 59.0 | 1.6 | 31.4 | 119.88 | 113.08 | 133.49 | 5.7 | 2.4 | 161.6 |
-| SCI | 289.0 | Pullback | 56.5 | 1.3 | 30.2 | 292.58 | 276.85 | 324.04 | 5.4 | 3.09 | 83.7 |
-| INDIANB | 849.45 | Pullback | 55.2 | 1.42 | 36.5 | 852.1 | 814.1 | 928.1 | 4.5 | 2.45 | 88.0 |
-| PETRONET | 292.95 | Pullback | 54.9 | 1.31 | 66.8 | 295.64 | 283.78 | 319.35 | 4.0 | 2.11 | 61.5 |
-| CRAFTSMAN | 10997.0 | Pullback | 56.9 | 1.01 | 52.7 | 11048.05 | 10265.0 | 12614.15 | 7.1 | 3.53 | 56.8 |
+| TATACOMM | 1763.7 | Pullback + RSI breakout | 61.3 | 21.48 | 12.4 | 1869.73 | 1612.64 | 2383.92 | 13.8 | 3.45 | 82.4 |
+| KARURVYSYA | 345.65 | Pullback + RSI breakout | 60.7 | 2.48 | 33.8 | 349.9 | 326.12 | 397.46 | 6.8 | 2.9 | 80.7 |
+| ANGELONE | 313.0 | Breakout + RSI breakout | 61.6 | 2.49 | 28.1 | 316.18 | 301.46 | 345.61 | 4.7 | 3.12 | 151.3 |
+| ICICIBANK | 1389.4 | Breakout + Pullback | 57.8 | 1.81 | 60.6 | 1392.18 | 1329.4 | 1517.74 | 4.5 | 1.81 | 1317.2 |
+| AARTIIND | 505.05 | Breakout + Pullback | 57.0 | 1.41 | 67.3 | 508.72 | 463.0 | 600.16 | 9.0 | 3.6 | 29.0 |
+| BAJAJHLDNG | 11225.0 | Pullback | 58.0 | 2.02 | 32.6 | 11272.5 | 10554.0 | 12709.5 | 6.4 | 2.42 | 46.4 |
+| GROWW | 197.98 | Pullback | 58.8 | 1.72 | 47.2 | 201.2 | 189.56 | 224.48 | 5.8 | 3.09 | 535.0 |
+| INDHOTEL | 741.45 | Pullback | 57.3 | 1.45 | 49.7 | 754.06 | 709.55 | 843.08 | 5.9 | 2.24 | 264.4 |
+| ECLERX | 1998.2 | RSI breakout | 61.3 | 1.34 | 44.5 | 2011.92 | 1880.39 | 2274.98 | 6.5 | 3.73 | 32.8 |
+| ZENTEC | 1695.0 | Pullback | 54.4 | 1.04 | 44.5 | 1711.82 | 1585.9 | 1963.66 | 7.4 | 3.64 | 40.5 |
 
 ## Watchlist (approaching setup)
 | Symbol | Price | RSI14 | Vol_x20d | Note |
 |---|---|---|---|---|
-| GESHIP | 1543.1 | 61.5 | 0.73 | 2.6% below 20d high 1583.00 |
-| PNBHOUSING | 1200.0 | 61.2 | 0.67 | 2.1% below 20d high 1224.80 |
-| PWL | 140.91 | 59.8 | 0.29 | 2.8% below 20d high 144.90 |
-| LAURUSLABS | 2036.9 | 58.4 | 0.78 | 1.6% below 20d high 2069.20 |
-| ANGELONE | 306.05 | 57.9 | 0.73 | 1.9% below 20d high 312.00 |
+| BALRAMCHIN | 726.0 | 60.5 | 0.8 | 1.4% below 20d high 736.00 |
+| BSE | 3428.0 | 57.9 | 0.9 | -0.6% below 20d high 3408.30 |
+| SAGILITY | 45.6 | 57.7 | 0.66 | 2.4% below 20d high 46.70 |
+| PETRONET | 295.2 | 57.2 | 0.87 | 1.5% below 20d high 299.60 |
+| MOTILALOFS | 1062.95 | 57.2 | 0.91 | 2.6% below 20d high 1090.25 |
