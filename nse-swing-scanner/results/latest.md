@@ -1,5 +1,5 @@
 # NSE swing scan — data as of 2026-10-16
-Generated 2026-10-18 16:33 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
+Generated 2026-10-19 19:21 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
 
 Nifty 50 23146 vs 50 EMA 23314 (2026-10-16) — **MARKET FILTER OFF: no new longs; candidates below are for reference only**
 
