@@ -1,0 +1,48 @@
+name: NSE app (GitHub Pages)
+
+# Pushes made by the scan/backtest workflows use GITHUB_TOKEN and so don't fire `push`;
+# `workflow_run` picks those up instead.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "nse-swing-scanner/app/**"
+      - "nse-swing-scanner/build_app_data.py"
+      - "nse-swing-scanner/results/**"
+      - ".github/workflows/nse-app-pages.yml"
+  workflow_run:
+    workflows: ["NSE swing scan", "NSE swing backtest"]
+    types: [completed]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python nse-swing-scanner/build_app_data.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: nse-swing-scanner/app
+      - id: deployment
+        uses: actions/deploy-pages@v4
