@@ -1,25 +1,25 @@
-# NSE swing scan — data as of 2026-10-26
-Generated 2026-10-27 18:42 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
+# NSE swing scan — data as of 2026-10-27
+Generated 2026-10-28 18:52 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
 
-Nifty 50 22753 vs 50 EMA 23211 (2026-10-26) — **MARKET FILTER OFF: no new longs; candidates below are for reference only**
+Nifty 50 22750 vs 50 EMA 23193 (2026-10-27) — **MARKET FILTER OFF: no new longs; candidates below are for reference only**
 
 ## Candidates (ranked)
 | Symbol | Price | Setup | RSI14 | Vol_x20d | Deliv_% | Entry | Stop | Target_1to2 | Risk_% | ATR_% | AvgVal_Cr |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| ATHERENERG | 1575.0 | Breakout + Pullback | 59.7 | 3.09 | 25.2 | 1626.25 | 1345.7 | 2187.35 | 17.3 | 4.77 | 474.1 |
-| ACUTAAS | 3348.8 | Pullback | 57.1 | 3.62 | 52.3 | 3371.53 | 3085.0 | 3944.59 | 8.5 | 3.91 | 125.8 |
-| MRPL | 182.61 | Pullback | 59.9 | 8.11 | 8.8 | 185.37 | 159.0 | 238.11 | 14.2 | 5.01 | 341.7 |
-| COFORGE | 1993.0 | Breakout + Pullback + RSI breakout | 64.1 | 2.13 | 39.9 | 2001.6 | 1776.33 | 2452.14 | 11.3 | 3.6 | 459.8 |
-| JSWSTEEL | 1260.0 | Pullback | 55.1 | 1.71 | 47.9 | 1262.52 | 1181.9 | 1423.76 | 6.4 | 2.72 | 235.0 |
-| ZYDUSLIFE | 1160.4 | Pullback | 55.3 | 1.52 | 29.6 | 1162.72 | 1093.5 | 1301.16 | 6.0 | 2.83 | 187.1 |
-| LAURUSLABS | 2058.9 | Pullback | 57.4 | 1.28 | 45.1 | 2063.02 | 1903.79 | 2381.49 | 7.7 | 2.83 | 298.3 |
-| SAGILITY | 44.5 | Pullback | 50.6 | 1.84 | 49.2 | 44.95 | 42.71 | 49.43 | 5.0 | 3.47 | 87.3 |
-| ETERNAL | 325.55 | Pullback | 53.0 | 1.2 | 52.0 | 328.61 | 301.75 | 382.33 | 8.2 | 3.22 | 885.3 |
-| STLTECH | 867.55 | Pullback | 49.3 | 1.4 |  | 869.69 | 760.85 | 1087.37 | 12.5 | 6.33 | 217.2 |
+| APLAPOLLO | 2213.9 | Pullback | 57.9 | 3.84 | 48.2 | 2218.33 | 1994.1 | 2666.79 | 10.1 | 2.98 | 133.8 |
+| SONACOMS | 851.85 | Breakout + RSI breakout | 62.8 | 8.08 | 26.4 | 869.74 | 793.24 | 1022.73 | 8.8 | 3.46 | 257.5 |
+| MANKIND | 2502.5 | Pullback | 59.8 | 4.67 | 22.4 | 2534.86 | 2196.1 | 3212.38 | 13.4 | 3.28 | 189.2 |
+| BEML | 1998.6 | Pullback | 54.0 | 3.58 | 29.2 | 2013.82 | 1806.0 | 2429.46 | 10.3 | 3.94 | 42.1 |
+| NAVINFLUOR | 8254.0 | Pullback | 50.8 | 3.26 | 60.8 | 8333.63 | 7510.5 | 9979.89 | 9.9 | 3.11 | 90.2 |
+| LAURUSLABS | 2142.0 | Breakout + RSI breakout | 64.8 | 2.11 | 47.5 | 2147.39 | 2037.32 | 2367.53 | 5.1 | 2.81 | 317.2 |
+| ACMESOLAR | 416.05 | Pullback | 51.5 | 2.21 | 53.2 | 425.7 | 366.3 | 544.5 | 14.0 | 4.91 | 41.8 |
+| PRIVISCL | 3530.5 | Pullback | 57.5 | 1.56 | 59.2 | 3577.14 | 3190.1 | 4351.22 | 10.8 | 3.36 | 39.6 |
+| MRPL | 189.44 | Breakout + RSI breakout | 63.8 | 1.65 | 15.7 | 190.68 | 174.74 | 222.55 | 8.4 | 4.89 | 369.8 |
+| DIVISLAB | 9505.5 | Pullback | 58.3 | 1.42 | 51.3 | 9524.51 | 8797.0 | 10979.53 | 7.6 | 2.61 | 540.5 |
 
 ## Watchlist (approaching setup)
 | Symbol | Price | RSI14 | Vol_x20d | Note |
 |---|---|---|---|---|
-| ANANDRATHI | 2230.0 | 62.8 | 0.63 | 0.5% below 20d high 2242.00 |
-| ICICIBANK | 1403.0 | 59.4 | 0.63 | 0.6% below 20d high 1411.80 |
-| UNIONBANK | 181.2 | 57.2 | 0.99 | 2.6% below 20d high 186.00 |
+| KOTAKBANK | 442.5 | 60.0 | 0.95 | 2.4% below 20d high 453.10 |
+| BSE | 3441.1 | 58.0 | 0.81 | 0.4% below 20d high 3455.00 |
+| IPCALAB | 1980.8 | 57.9 | 0.74 | 2.0% below 20d high 2020.00 |
