@@ -1,25 +1,24 @@
-# NSE swing scan — data as of 2026-10-27
-Generated 2026-10-28 18:52 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
+# NSE swing scan — data as of 2026-10-28
+Generated 2026-10-29 18:58 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
 
-Nifty 50 22750 vs 50 EMA 23193 (2026-10-27) — **MARKET FILTER OFF: no new longs; candidates below are for reference only**
+Nifty 50 22699 vs 50 EMA 23173 (2026-10-28) — **MARKET FILTER OFF: no new longs; candidates below are for reference only**
 
 ## Candidates (ranked)
 | Symbol | Price | Setup | RSI14 | Vol_x20d | Deliv_% | Entry | Stop | Target_1to2 | Risk_% | ATR_% | AvgVal_Cr |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| APLAPOLLO | 2213.9 | Pullback | 57.9 | 3.84 | 48.2 | 2218.33 | 1994.1 | 2666.79 | 10.1 | 2.98 | 133.8 |
-| SONACOMS | 851.85 | Breakout + RSI breakout | 62.8 | 8.08 | 26.4 | 869.74 | 793.24 | 1022.73 | 8.8 | 3.46 | 257.5 |
-| MANKIND | 2502.5 | Pullback | 59.8 | 4.67 | 22.4 | 2534.86 | 2196.1 | 3212.38 | 13.4 | 3.28 | 189.2 |
-| BEML | 1998.6 | Pullback | 54.0 | 3.58 | 29.2 | 2013.82 | 1806.0 | 2429.46 | 10.3 | 3.94 | 42.1 |
-| NAVINFLUOR | 8254.0 | Pullback | 50.8 | 3.26 | 60.8 | 8333.63 | 7510.5 | 9979.89 | 9.9 | 3.11 | 90.2 |
-| LAURUSLABS | 2142.0 | Breakout + RSI breakout | 64.8 | 2.11 | 47.5 | 2147.39 | 2037.32 | 2367.53 | 5.1 | 2.81 | 317.2 |
-| ACMESOLAR | 416.05 | Pullback | 51.5 | 2.21 | 53.2 | 425.7 | 366.3 | 544.5 | 14.0 | 4.91 | 41.8 |
-| PRIVISCL | 3530.5 | Pullback | 57.5 | 1.56 | 59.2 | 3577.14 | 3190.1 | 4351.22 | 10.8 | 3.36 | 39.6 |
-| MRPL | 189.44 | Breakout + RSI breakout | 63.8 | 1.65 | 15.7 | 190.68 | 174.74 | 222.55 | 8.4 | 4.89 | 369.8 |
-| DIVISLAB | 9505.5 | Pullback | 58.3 | 1.42 | 51.3 | 9524.51 | 8797.0 | 10979.53 | 7.6 | 2.61 | 540.5 |
+| NAVINFLUOR | 8501.0 | Pullback | 56.5 | 3.03 | 44.5 | 8651.27 | 7510.5 | 10932.81 | 13.2 | 3.15 | 102.5 |
+| CRAFTSMAN | 11014.0 | Pullback | 55.0 | 4.48 | 33.4 | 11311.58 | 10077.0 | 13780.74 | 10.9 | 4.05 | 55.9 |
+| KPRMILL | 1091.5 | Pullback | 52.6 | 11.32 | 29.0 | 1101.2 | 1001.1 | 1301.4 | 9.1 | 3.75 | 23.6 |
+| TVSMOTOR | 4239.9 | Breakout + Pullback + RSI breakout | 63.4 | 1.96 | 43.5 | 4266.52 | 3875.1 | 5049.36 | 9.2 | 2.75 | 290.1 |
+| BOSCHLTD | 47625.0 | Pullback + RSI breakout | 61.4 | 1.18 | 27.0 | 47720.25 | 43650.0 | 55860.75 | 8.5 | 2.45 | 99.1 |
+| ABDL | 702.2 | Pullback | 52.8 | 1.46 | 39.1 | 709.12 | 654.0 | 819.36 | 7.8 | 4.32 | 49.1 |
+| NYKAA | 342.5 | Pullback | 55.6 | 1.0 | 60.6 | 346.19 | 313.2 | 412.17 | 9.5 | 3.14 | 170.0 |
 
 ## Watchlist (approaching setup)
 | Symbol | Price | RSI14 | Vol_x20d | Note |
 |---|---|---|---|---|
-| KOTAKBANK | 442.5 | 60.0 | 0.95 | 2.4% below 20d high 453.10 |
-| BSE | 3441.1 | 58.0 | 0.81 | 0.4% below 20d high 3455.00 |
-| IPCALAB | 1980.8 | 57.9 | 0.74 | 2.0% below 20d high 2020.00 |
+| GESHIP | 1559.9 | 60.6 | 0.49 | 1.5% below 20d high 1583.00 |
+| BSE | 3485.0 | 60.1 | 0.55 | -0.5% below 20d high 3467.00 |
+| COFORGE | 1961.9 | 59.1 | 0.85 | 2.4% below 20d high 2008.80 |
+| UNIONBANK | 182.98 | 58.4 | 0.58 | 1.7% below 20d high 186.00 |
+| FEDERALBNK | 346.0 | 58.1 | 0.62 | 2.7% below 20d high 355.50 |
