@@ -1,27 +1,27 @@
-# NSE swing scan — data as of 2026-11-02
-Generated 2026-11-03 20:07 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
+# NSE swing scan — data as of 2026-11-03
+Generated 2026-11-04 20:26 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
 
-Nifty 50 23441 vs 50 EMA 23171 (2026-11-02) — **MARKET FILTER ON: new longs allowed**
+Nifty 50 23811 vs 50 EMA 23196 (2026-11-03) — **MARKET FILTER ON: new longs allowed**
 
 ## Candidates (ranked)
 | Symbol | Price | Setup | RSI14 | Vol_x20d | Deliv_% | Entry | Stop | Target_1to2 | Risk_% | ATR_% | AvgVal_Cr |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| ZENTEC | 1720.6 | Breakout + Pullback | 59.0 | 17.8 | 10.8 | 1809.31 | 1569.0 | 2289.93 | 13.3 | 4.35 | 77.2 |
-| GLENMARK | 2382.0 | Breakout + Pullback | 58.8 | 2.82 | 47.5 | 2404.9 | 2275.87 | 2662.96 | 5.4 | 2.81 | 130.8 |
-| ENGINERSIN | 289.65 | Pullback | 57.8 | 8.94 | 9.6 | 294.49 | 250.0 | 383.47 | 15.1 | 4.96 | 153.3 |
-| CASTROLIND | 196.49 | Pullback | 56.1 | 3.72 | 40.0 | 197.67 | 186.6 | 219.81 | 5.6 | 2.18 | 61.3 |
-| RKFORGE | 696.1 | Pullback | 54.8 | 11.06 | 23.6 | 712.42 | 640.15 | 856.96 | 10.1 | 4.62 | 65.9 |
-| OIL | 461.9 | Breakout + Pullback | 54.4 | 2.29 | 54.2 | 465.33 | 445.35 | 505.29 | 4.3 | 2.26 | 56.7 |
-| SHYAMMETL | 1191.0 | RSI breakout | 62.3 | 2.94 | 34.4 | 1224.84 | 1162.79 | 1348.94 | 5.1 | 3.68 | 51.0 |
-| PETRONET | 300.95 | Breakout + Pullback | 59.4 | 1.93 | 55.8 | 302.0 | 283.25 | 339.5 | 6.2 | 2.41 | 72.1 |
-| GAIL | 177.0 | Breakout + Pullback + RSI breakout | 63.1 | 1.78 | 37.2 | 177.75 | 163.1 | 207.05 | 8.2 | 2.43 | 132.7 |
-| GRASIM | 3057.1 | Breakout + Pullback | 57.8 | 1.57 | 51.5 | 3063.21 | 2883.1 | 3423.43 | 5.9 | 2.11 | 101.4 |
+| MINDACORP | 684.6 | Breakout + Pullback + RSI breakout | 60.5 | 7.24 | 25.6 | 715.38 | 620.55 | 905.04 | 13.3 | 3.94 | 20.1 |
+| ASAHIINDIA | 991.45 | Breakout + Pullback + RSI breakout | 65.0 | 20.63 | 18.6 | 1016.98 | 901.05 | 1248.84 | 11.4 | 3.12 | 11.8 |
+| MCX | 3490.1 | Breakout + RSI breakout | 64.0 | 3.14 | 38.3 | 3545.08 | 3196.47 | 4242.29 | 9.8 | 3.35 | 549.5 |
+| ANGELONE | 310.4 | Pullback | 59.3 | 2.89 | 25.8 | 316.48 | 282.25 | 384.94 | 10.8 | 3.72 | 208.4 |
+| FLUOROCHEM | 4463.9 | Pullback | 53.7 | 3.16 | 31.4 | 4609.2 | 4175.0 | 5477.6 | 9.4 | 3.42 | 44.8 |
+| GRASIM | 3090.0 | Breakout + Pullback + RSI breakout | 60.6 | 2.01 | 54.3 | 3122.83 | 2900.1 | 3568.29 | 7.1 | 2.13 | 108.2 |
+| PETRONET | 303.0 | Breakout + RSI breakout | 60.9 | 2.46 | 40.6 | 307.01 | 290.49 | 340.04 | 5.4 | 2.51 | 77.1 |
+| SOLARINDS | 19654.0 | Pullback | 51.5 | 4.46 | 27.7 | 20921.76 | 18800.0 | 25165.28 | 10.1 | 3.32 | 270.3 |
+| JYOTICNC | 967.4 | Pullback | 49.8 | 10.64 | 17.1 | 1016.98 | 897.45 | 1256.04 | 11.8 | 5.1 | 82.2 |
+| MOTILALOFS | 1010.0 | Pullback | 52.3 | 2.56 | 26.8 | 1033.81 | 935.05 | 1231.33 | 9.6 | 4.23 | 103.4 |
 
 ## Watchlist (approaching setup)
 | Symbol | Price | RSI14 | Vol_x20d | Note |
 |---|---|---|---|---|
-| DLF | 701.0 | 63.6 | 0.9 | -0.2% below 20d high 699.60 |
-| GESHIP | 1600.4 | 63.3 | 0.44 | 2.9% below 20d high 1647.00 |
-| BOSCHLTD | 48100.0 | 62.6 | 0.9 | -0.8% below 20d high 47700.00 |
-| ETERNAL | 344.0 | 62.4 | 0.67 | 0.7% below 20d high 346.50 |
-| ADANIPORTS | 1854.0 | 61.7 | 0.43 | 1.0% below 20d high 1872.00 |
+| COFORGE | 2060.8 | 64.9 | 0.53 | 2.5% below 20d high 2112.20 |
+| TVSMOTOR | 4303.2 | 64.0 | 0.72 | 0.2% below 20d high 4313.70 |
+| KPRMILL | 1160.0 | 62.9 | 0.8 | -2.0% below 20d high 1136.30 |
+| NUVAMA | 1866.2 | 62.4 | 0.77 | 1.1% below 20d high 1886.50 |
+| SAILIFE | 1558.2 | 61.9 | 0.83 | 2.0% below 20d high 1590.00 |
