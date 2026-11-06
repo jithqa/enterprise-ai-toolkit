@@ -1,27 +1,27 @@
-# NSE swing scan — data as of 2026-11-04
-Generated 2026-11-05 20:41 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
+# NSE swing scan — data as of 2026-11-05
+Generated 2026-11-06 19:57 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
 
-Nifty 50 23961 vs 50 EMA 23226 (2026-11-04) — **MARKET FILTER ON: new longs allowed**
+Nifty 50 24537 vs 50 EMA 23277 (2026-11-05) — **MARKET FILTER ON: new longs allowed**
 
 ## Candidates (ranked)
 | Symbol | Price | Setup | RSI14 | Vol_x20d | Deliv_% | Entry | Stop | Target_1to2 | Risk_% | ATR_% | AvgVal_Cr |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| MEDANTA | 1402.0 | Breakout + Pullback + RSI breakout | 62.8 | 11.16 | 31.5 | 1426.45 | 1270.3 | 1738.75 | 10.9 | 3.59 | 41.3 |
-| ANTHEM | 888.3 | Pullback + RSI breakout | 61.4 | 2.79 | 36.2 | 891.78 | 823.05 | 1029.24 | 7.7 | 3.05 | 31.7 |
-| MINDACORP | 678.55 | Pullback | 58.5 | 2.61 | 32.4 | 685.57 | 620.55 | 815.61 | 9.5 | 4.14 | 22.3 |
-| BAJFINANCE | 994.0 | Breakout + Pullback | 57.8 | 1.77 | 71.2 | 995.99 | 940.1 | 1107.77 | 5.6 | 2.66 | 823.7 |
-| REDINGTON | 366.75 | Pullback | 49.8 | 5.09 | 17.5 | 375.15 | 315.0 | 495.45 | 16.0 | 5.27 | 166.4 |
-| FLUOROCHEM | 4613.3 | Pullback + RSI breakout | 60.6 | 1.85 | 53.7 | 4677.34 | 4185.2 | 5661.62 | 10.5 | 3.49 | 44.9 |
-| GRASIM | 3138.0 | Breakout + Pullback | 64.3 | 2.19 | 54.7 | 3147.28 | 2980.0 | 3481.84 | 5.3 | 2.1 | 115.5 |
-| TITAN | 4754.4 | Breakout + Pullback + RSI breakout | 64.9 | 1.65 | 45.0 | 4763.91 | 4417.99 | 5455.76 | 7.3 | 2.25 | 367.9 |
-| TORNTPHARM | 4738.5 | Pullback | 55.3 | 1.83 | 70.9 | 4747.98 | 4553.0 | 5137.94 | 4.1 | 2.35 | 144.4 |
-| LODHA | 1122.0 | Pullback | 58.3 | 1.78 | 47.1 | 1124.24 | 987.2 | 1398.32 | 12.2 | 3.76 | 150.3 |
+| MOTHERSON | 168.0 | Breakout + Pullback + RSI breakout | 63.1 | 5.26 | 48.9 | 169.83 | 155.24 | 199.01 | 8.6 | 2.94 | 205.6 |
+| AIIL | 569.6 | Pullback + RSI breakout | 61.4 | 8.63 | 32.2 | 573.85 | 498.9 | 723.75 | 13.1 | 4.02 | 11.8 |
+| TMCV | 429.05 | Pullback | 57.8 | 3.97 | 34.5 | 440.78 | 399.5 | 523.34 | 9.4 | 3.6 | 274.8 |
+| PIRAMALFIN | 2119.6 | Breakout + Pullback + RSI breakout | 60.4 | 2.23 | 56.7 | 2136.26 | 1890.7 | 2627.38 | 11.5 | 3.97 | 70.2 |
+| INDIANB | 892.15 | Breakout + Pullback + RSI breakout | 64.4 | 2.68 | 56.0 | 902.65 | 835.54 | 1036.88 | 7.4 | 2.57 | 148.2 |
+| MOTILALOFS | 1095.0 | Breakout + RSI breakout | 62.9 | 3.03 | 29.9 | 1098.04 | 1010.2 | 1273.71 | 8.0 | 4.1 | 107.8 |
+| LGEINDIA | 1778.5 | Pullback + RSI breakout | 63.2 | 9.55 | 34.0 | 1839.67 | 1654.65 | 2209.7 | 10.1 | 2.85 | 69.8 |
+| LENSKART | 718.35 | Breakout + RSI breakout | 64.9 | 5.88 | 35.2 | 764.28 | 685.97 | 920.91 | 10.2 | 3.63 | 366.4 |
+| MAHABANK | 85.1 | Breakout + Pullback | 59.7 | 2.2 | 42.8 | 85.51 | 78.9 | 98.73 | 7.7 | 3.18 | 122.9 |
+| WOCKPHARMA | 1989.7 | Pullback | 53.3 | 2.66 | 34.4 | 2036.06 | 1804.2 | 2499.78 | 11.4 | 4.06 | 130.1 |
 
 ## Watchlist (approaching setup)
 | Symbol | Price | RSI14 | Vol_x20d | Note |
 |---|---|---|---|---|
-| PERSISTENT | 6065.0 | 64.8 | 0.52 | 1.2% below 20d high 6135.00 |
-| COFORGE | 2060.0 | 64.7 | 0.69 | 2.5% below 20d high 2112.20 |
-| KOTAKBANK | 459.4 | 64.0 | 0.89 | 1.4% below 20d high 465.95 |
-| APOLLOHOSP | 8599.5 | 63.1 | 0.88 | -1.6% below 20d high 8459.00 |
-| HBLENGINE | 836.4 | 62.2 | 0.32 | 0.7% below 20d high 842.00 |
+| ADANIPORTS | 1884.6 | 62.7 | 0.69 | 1.9% below 20d high 1921.30 |
+| UNIONBANK | 188.0 | 62.6 | 0.82 | 0.4% below 20d high 188.77 |
+| NUVAMA | 1873.4 | 62.1 | 0.62 | 1.9% below 20d high 1908.40 |
+| PAYTM | 1781.6 | 60.9 | 0.77 | -0.4% below 20d high 1774.00 |
+| MEDANTA | 1389.7 | 60.6 | 0.82 | 2.4% below 20d high 1423.60 |
