@@ -1,7 +1,7 @@
 # NSE swing scan — data as of 2026-11-09
-Generated 2026-11-09 22:59 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
+Generated 2026-11-10 20:28 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
 
-Nifty 50 25030 vs 50 EMA 23346 (2026-11-06) — **MARKET FILTER ON: new longs allowed**
+Nifty 50 25045 vs 50 EMA 23413 (2026-11-09) — **MARKET FILTER ON: new longs allowed**
 
 ## Candidates (ranked)
 | Symbol | Price | Setup | RSI14 | Vol_x20d | Deliv_% | Entry | Stop | Target_1to2 | Risk_% | ATR_% | AvgVal_Cr |
