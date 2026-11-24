@@ -1,12 +1,11 @@
 # NSE swing scan — data as of 2026-11-20
-Generated 2026-11-22 20:21 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
+Generated 2026-11-24 00:51 UTC. Universe: 501 symbols (https://archives.nseindia.com/content/indices/ind_nifty500list.csv); price data for 499. Delivery %: loaded.
 
 Nifty 50 25801 vs 50 EMA 23951 (2026-11-20) — **MARKET FILTER ON: new longs allowed**
 
 ## Candidates (ranked)
 | Symbol | Price | Setup | RSI14 | Vol_x20d | Deliv_% | Entry | Stop | Target_1to2 | Risk_% | ATR_% | AvgVal_Cr |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| TATATECH | 727.9 | Breakout + Pullback + RSI breakout | 63.2 | 6.72 | 20.7 | 737.22 | 648.1 | 915.46 | 12.1 | 3.58 | 82.5 |
 | PERSISTENT | 6124.0 | Pullback + RSI breakout | 62.3 | 3.25 | 40.3 | 6227.43 | 5690.29 | 7301.71 | 8.6 | 2.8 | 361.0 |
 | NUVOCO | 358.5 | Breakout + RSI breakout | 64.6 | 42.77 | 8.5 | 376.0 | 341.94 | 444.12 | 9.1 | 3.16 | 24.8 |
 | LGEINDIA | 1740.7 | Pullback | 54.1 | 2.89 | 62.1 | 1798.59 | 1670.21 | 2055.34 | 7.1 | 3.11 | 110.2 |
@@ -16,6 +15,7 @@ Nifty 50 25801 vs 50 EMA 23951 (2026-11-20) — **MARKET FILTER ON: new longs al
 | RBLBANK | 398.3 | Breakout + Pullback + RSI breakout | 61.4 | 1.22 | 45.4 | 402.8 | 374.48 | 459.44 | 7.0 | 2.87 | 137.8 |
 | WELSPUNLIV | 268.78 | Breakout + RSI breakout | 63.6 | 1.93 | 10.7 | 274.55 | 242.79 | 338.07 | 11.6 | 4.99 | 296.5 |
 | GRASIM | 3103.7 | Pullback | 54.2 | 1.71 | 63.9 | 3121.63 | 3037.68 | 3289.52 | 2.7 | 2.23 | 236.3 |
+| PNBHOUSING | 1191.3 | Breakout + Pullback + RSI breakout | 64.2 | 1.07 | 37.3 | 1206.81 | 1106.49 | 1407.45 | 8.3 | 2.99 | 91.4 |
 
 ## Watchlist (approaching setup)
 | Symbol | Price | RSI14 | Vol_x20d | Note |
