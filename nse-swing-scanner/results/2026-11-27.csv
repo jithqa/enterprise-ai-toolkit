@@ -1,0 +1,3 @@
+Symbol,Price,Setup,RSI14,Vol_x20d,Deliv_%,Entry,Stop,Target_1to2,Risk_%,ATR_%,AvgVal_Cr,Date
+360ONE,1210.0,RSI breakout,64.1,1.61,44.1,1213.97,1152.32,1337.28,5.1,3.05,106.2,2026-11-26
+RKFORGE,787.85,RSI breakout,62.5,1.08,47.0,791.58,725.77,923.19,8.3,3.88,102.4,2026-11-26
